@@ -35,6 +35,10 @@
         color: #e5e7eb;
     }
 
+    li a:hover {
+        color: #f9faf8;
+    }
+
     /* Hero section */
     .hero {
         display: flex;
